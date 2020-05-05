@@ -23,3 +23,5 @@ We fetch the result of sentiment analysis to front-end, and calculate the attitu
 - Tweepy: A python library is recommended by Tweet to access to information from Tweet.
 - TextBlob: It provides an effective procedure to implement textual sentiment analysis.
 
+## Demo
+![Demo](https://github.com/cao-weiwei/SESentimentAnaylsis/blob/master/imgs/01_demo.png)
